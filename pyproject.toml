@@ -56,13 +56,6 @@ dev = [
     "mypy>=1.4.0",
     "flake8>=6.0.0",
 ]
-gpu = [
-    "torch>=2.0.0+cu118",
-]
-
-[project.scripts]
-synthesis-extract = "synthesis_enhancements.cli:main"
-
 [project.urls]
 Homepage = "https://github.com/CederGroupHub/text-mined-synthesis_public"
 Documentation = "https://github.com/CederGroupHub/text-mined-synthesis_public/docs"
