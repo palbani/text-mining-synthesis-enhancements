@@ -1,3 +1,8 @@
+## Acknowledgments
+
+Built upon the original [text-mined-synthesis](https://github.com/CederGroupHub/text-mined-synthesis_public) project by CederGroup at UC Berkeley.
+
+
 # Synthesis Enhancements
 
 Enhanced text-mining synthesis package with transformer models, parallel processing, and model versioning.
@@ -288,6 +293,3 @@ If you use this package, please cite:
 }
 ```
 
-## Acknowledgments
-
-Built upon the original [text-mined-synthesis](https://github.com/CederGroupHub/text-mined-synthesis_public) project by CederGroup at UC Berkeley.
